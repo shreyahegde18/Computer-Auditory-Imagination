@@ -8,22 +8,22 @@ https://huggingface.co/shreyahegde/ast-finetuned-audioset-10-10-0.450_ESC50/tree
     <tr>
         <td>
             <a href="outputs/alarm.mp4">
-                <img src="Computer-Auditory-Imagination\thumbnails\alarm.png" alt="Alarm" width="320" height="240">
+                <img src="thumbnails\alarm.png" alt="Alarm" width="320" height="240">
             </a>
         </td>
         <td>
             <a href="outputs/rain.mp4">
-                <img src="Computer-Auditory-Imagination\thumbnails\alarm.png" alt="Rain" width="320" height="240">
+                <img src="thumbnails\rain.png" alt="Rain" width="320" height="240">
             </a>
         </td>
         <td>
             <a href="outputs/fire%20works.mp4">
-                <img src="Computer-Auditory-Imagination\thumbnails\alarm.png" alt="Fire Works" width="320" height="240">
+                <img src="thumbnails\fire_works.png" alt="Fire Works" width="320" height="240">
             </a>
         </td>
         <td>
             <a href="outputs/thunderstorm.mp4">
-                <img src="Computer-Auditory-Imagination\thumbnails\alarm.png" alt="Thunderstorm" width="320" height="240">
+                <img src="thumbnails\thunderstorm.png" alt="Thunderstorm" width="320" height="240">
             </a>
         </td>
     </tr>
