@@ -23,7 +23,7 @@ https://huggingface.co/shreyahegde/ast-finetuned-audioset-10-10-0.450_ESC50/tree
       </td>
       <td>
           <video width="320" height="240" controls>
-              <source src="outputs/fire works.mp4" type="video/mp4">
+              <source src="https://github.com/shreyahegde18/Computer-Auditory-Imagination/blob/main/outputs/Fire%20Works.mp4" type="video/mp4">
               Fire Works
           </video>
       </td>
